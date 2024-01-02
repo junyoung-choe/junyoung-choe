@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=007396)
-![JAVA](https://img.shields.io/badge/SpringBoot-#6DB33F.svg?&style=for-the-badge&logo=JAVA&logoColor=#6DB33F)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=JAVA&logoColor=6DB33F)
 
 
 
