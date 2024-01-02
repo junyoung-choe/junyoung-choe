@@ -1,8 +1,8 @@
-### Hi there 👋
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+### 최준영 입니다 🌳
 ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=007396)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=JAVA&logoColor=6DB33F)
 
+![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=4479A1)
 
 
 <!--
