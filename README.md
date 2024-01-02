@@ -2,10 +2,14 @@
 ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=007396)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=JAVA&logoColor=6DB33F)
 
+- DB
 ![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=4479A1)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=F80000)
 
+- IDE
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=000000)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdghkswnsdu)](https://solved.ac/wjdghkswnsdu/)
 <!--
 **junyoung-choe/junyoung-choe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
