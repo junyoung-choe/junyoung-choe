@@ -1,5 +1,5 @@
 ### 최준영 입니다 🌳
-- develope  
+- DEV
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
@@ -12,7 +12,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=000000)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
-- 백준
+- 백준  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdghkswnsdu)](https://solved.ac/wjdghkswnsdu/)
 <!--
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
