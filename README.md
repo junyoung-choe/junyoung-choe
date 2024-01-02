@@ -3,6 +3,7 @@
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=JAVA&logoColor=6DB33F)
 
 ![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=F80000)
 
 
 <!--
