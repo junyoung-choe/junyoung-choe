@@ -5,11 +5,13 @@
 <h4>Language</h4>
 
 ![Static Badge](https://img.shields.io/badge/Java-%231E8CBE?style=flat)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 
 <h4>Backend</h4>
 
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=Spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?style=flat&logo=fastapi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JSP-black?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Servlet-black?style=flat&logoColor=white)
 
