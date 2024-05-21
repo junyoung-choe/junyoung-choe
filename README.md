@@ -52,5 +52,6 @@
 ![Static Badge](https://img.shields.io/badge/Putty-%23007ACC?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL%20Workbench-%234479A1?style=flat&logo=mysql&logoColor=white)
 
-<h3>💻 백준 </h3> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdghkswnsdu)](https://solved.ac/wjdghkswnsdu/)
+
+<h3> 백준 </h3> 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdghkswnsdu)](https://solved.ac/wjdghkswnsdu/)
