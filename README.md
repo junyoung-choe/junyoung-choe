@@ -27,6 +27,7 @@
 
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=flat&logo=redis&logoColor=white)
+![Static Badge](https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 <h4>Infra</h4>
 
